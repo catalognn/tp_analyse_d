@@ -1,4 +1,11 @@
-## Clustering - Mars tutorial
-### Large multi-spectral image segmentation: _Representing the geological diversity of the surface of Mars_
+## Correspondence Analysis  - Housetasks tutorial
+### Distribution of household chores within a couple according to marital status
 
-_Goal:_ To apply the different concepts studied during the course on clustering on _quantitative_ data, using [Python](https://www.python.org/) language. More precisely, apply clustering to pixels of a multi-spectral image representing the surface of Mars.
+_Goal:_ To apply the different concepts studied during the course on CA, using [R](https://www.r-project.org/) language.
+
+<br/>
+
+## Multiple Correspondence Analysis  - Hobbies tutorial
+### Do certain hobbies tend to be pursued by the same people, or not?
+
+_Goal:_ To apply the different concepts studied during the course on MCA, using [R](https://www.r-project.org/) language.
