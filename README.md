@@ -1,11 +1,6 @@
-## Correspondence Analysis  - Housetasks tutorial
-### Distribution of household chores within a couple according to marital status
+## Principal Component Analysis - Digits tutorial
+### Visualization and denoising of handwritten digits
 
-_Goal:_ To apply the different concepts studied during the course on CA, using [R](https://www.r-project.org/) language.
+_Goal:_ Refresh Principal Component Analysis (PCA) and the associated [Python](https://www.python.org/) formulas. Apply this technique to a simple dataset made up of handwritten digits.
 
-<br/>
-
-## Multiple Correspondence Analysis  - Hobbies tutorial
-### Do certain hobbies tend to be pursued by the same people, or not?
-
-_Goal:_ To apply the different concepts studied during the course on MCA, using [R](https://www.r-project.org/) language.
+We could take the study a step further by looking at the [MNIST](http://yann.lecun.com/exdb/mnist/) database, which also contains handwritten digits, but in greater detail (dimension $784=28\times28$). In this case, a kernel-PCA decomposition could be used for denoising. This algorithm is outside the scope of this course.
