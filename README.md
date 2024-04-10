@@ -1,9 +1,4 @@
-## Factor Analysis of Mixed Data - Titanic tutorial
-### Titanic Survival Prediction
+## Clustering - Mars tutorial
+### Large multi-spectral image segmentation: _Representing the geological diversity of the surface of Mars_
 
-In this tutorial, we will use the [titanic dataset](https://www.kaggle.com/competitions/titanic/data), from Kaggle competition "_Titanic - Machine Learning from Disaster_".
-
-Our aim here is to mobilise several dimension reduction algorithms covered in the lesson (PCA, MCA) and attempt to predict passengers' chances of survival.
-As prediction algorithms are not at the heart of this course (unlike Machine Learning!), we will not optimise this part: we could implement much more efficient algorithms than the naive ones proposed here.
-
-For this tutorial, we will be using the [`prince`](https://maxhalford.github.io/prince/) package, based on the same syntax as scikit-learn.
+_Goal:_ To apply the different concepts studied during the course on clustering on _quantitative_ data, using [Python](https://www.python.org/) language. More precisely, apply clustering to pixels of a multi-spectral image representing the surface of Mars.
